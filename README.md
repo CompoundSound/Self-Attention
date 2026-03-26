@@ -8,7 +8,7 @@
 
 Диджеи поделятся своими неформатными находками, но музыка - не центр внимания, центр внимания - в вас.
 
-![ афиша ](poster.jpg){: width="55%" height="auto"}
+<img src="https://github.com/CompoundSound/Self-Attention/poster.jpg" width=50% height=50%>
 
 Вход: **donation** \
 Save the date!
