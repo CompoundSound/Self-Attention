@@ -17,6 +17,6 @@ Save the date!
 А ещё чтобы среди рабочих проектов подмигивать вам, напоминая о празднике ;) \
 Следить за мероприятием в соцсетях:
 
-tg: t.me/Self_Attention_24_04 \
+tg: https://t.me/Self_Attention_24_04 \
 VK: https://vk.com/club237084108 \
 ig: https://www.instagram.com/self_attention.24.04/
